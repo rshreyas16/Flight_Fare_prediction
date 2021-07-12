@@ -16,5 +16,6 @@ Total_Stops: Total stops between the source and destination.
 Additional_Info: Additional information about the flight.
 Price: The price of the ticket.
 
-This project notebook has Exploratory data analyis(EDA) and also applied various Machine learning algorithms to predict the price of Flight.
+This project notebook has Exploratory data analyis(EDA),the important features that affect price and also applied various Machine learning algorithms to predict the price of Flight.
+Further the pickle file can be used to make an end to end application to predict the Fare .
 
