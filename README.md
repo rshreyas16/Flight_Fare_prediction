@@ -2,10 +2,9 @@
 
 ## Problem Statement
 
-flight ticket prices can be something hard to guess, today we might see a price, check out the price of the same flight tomorrow, it will be a different story. We might have often heard travelers saying that flight ticket prices are so unpredictable. As data scientists, we are gonna prove that given the right data anything can be predicted. Here you will be provided with prices of flight tickets for various airlines between the months of March and June of 2019 and between various cities. 
+Flight ticket prices can be something hard to guess, today we might see a price, check out the price of the same flight tomorrow, it will be a different story. We might have often heard travelers saying that flight ticket prices are so unpredictable. As data scientists, we are gonna prove that given the right data anything can be predicted. Here you will be provided with prices of flight tickets for various airlines between the months of March and June of 2019 and between various cities. 
 
 FEATURES: Airline: The name of the airline.
-
 Date_of_Journey: The date of the journey.
 
 Source: The source from which the service begins.
@@ -26,6 +25,5 @@ Additional_Info: Additional information about the flight.
 
 Price: The price of the ticket.
 
-This project notebook has Exploratory data analyis(EDA),the important features that affect price and also applied various Machine learning algorithms to predict the price of Flight.
-Further the pickle file can be used to make an end to end application to predict the Fare .
+This project notebook has Exploratory data analyis(EDA),the important features that affect price and also applied various Machine learning algorithms to predict the price of Flight. Further the pickle file can be used to make an end to end application to predict the Fare.
 
